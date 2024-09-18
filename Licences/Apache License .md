@@ -7,6 +7,6 @@
 | :---         |     :---:      |          ---: |
 | Commercial use   | Liability     | License and copyright notice    |
 | Modifications     | Warranty       | State changes      |
-| Distribution   | N/A     | Disclosure source    |
-| Patent use    | N/A       | Same License      |
+| Distribution   | Trademark     | N/A    |
+| Patent use    | N/A       | N/A      |
 | Private Use   | N/A     | N/A    |
