@@ -12,5 +12,12 @@ The links provided in the page should help you understand how to do Various thin
 
 [Working with advanced formatting](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting)
 
+------
+**Also!** If you're reffering to a Repo, Make sure to include it in your Commit. Like This:
+
+```
+[Insert text here] (https://example.dev)
+```
+
 > [!TIP]
 > Yay! Now you understand Formatting. Let's get straight into adding stuff to [Archive.Dev](https://github.com/SyndiK22/Archive.dev)
